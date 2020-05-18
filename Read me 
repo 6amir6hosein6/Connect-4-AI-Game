@@ -1,0 +1,4 @@
+Connect 4 artificial intelligence game using pygame in order to design graphical mode
+
+the main function is gamePlay
+and main board is in array with 6 * 7 array

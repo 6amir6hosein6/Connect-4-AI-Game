@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a05b587a-da2a-4c15-aa25-3e9972c336b3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bpKnQmhsFKxUmWCXMkwX8RaPGu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Connection4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Connection4AI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Connection4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Connection4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a05b587a-da2a-4c15-aa25-3e9972c336b3" name="Default Changelist" comment="" />
+      <created>1589323761086</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589323761086</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="278" y="24" width="800" height="672" key="#Inspections" timestamp="1589549128183">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="278" y="24" width="800" height="672" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1589549128183" />
+    <state x="384" y="169" width="588" height="383" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589810028939">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="384" y="169" width="588" height="383" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1589810028939" />
+    <state width="1345" height="543" key="GridCell.Tab.0.bottom" timestamp="1589808197879">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="543" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589808197879" />
+    <state width="1345" height="543" key="GridCell.Tab.0.center" timestamp="1589808197879">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="543" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589808197879" />
+    <state width="1345" height="543" key="GridCell.Tab.0.left" timestamp="1589808197879">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="543" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589808197879" />
+    <state width="1345" height="543" key="GridCell.Tab.0.right" timestamp="1589808197879">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="543" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589808197879" />
+    <state width="1345" height="375" key="GridCell.Tab.1.bottom" timestamp="1589620252201">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="375" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589620252201" />
+    <state width="1345" height="375" key="GridCell.Tab.1.center" timestamp="1589620252200">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="375" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1589620252200" />
+    <state width="1345" height="375" key="GridCell.Tab.1.left" timestamp="1589620252200">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="375" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1589620252200" />
+    <state width="1345" height="375" key="GridCell.Tab.1.right" timestamp="1589620252201">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="375" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1589620252201" />
+    <state x="100" y="99" width="1166" height="528" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1589388540415">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="100" y="99" width="1166" height="528" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1589388540415" />
+    <state x="366" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1589719308928">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="366" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1589719308928" />
+  </component>
+</project>
