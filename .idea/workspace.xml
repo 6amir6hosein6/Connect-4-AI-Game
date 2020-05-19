@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a05b587a-da2a-4c15-aa25-3e9972c336b3" name="Default Changelist" comment="" />
+    <list default="true" id="a05b587a-da2a-4c15-aa25-3e9972c336b3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Connection4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Connection4.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +17,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1bpKnQmhsFKxUmWCXMkwX8RaPGu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +29,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -78,22 +86,26 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="384" y="169" width="588" height="383" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1589810028939" />
-    <state width="1345" height="543" key="GridCell.Tab.0.bottom" timestamp="1589808197879">
+    <state x="466" y="121" width="424" height="479" key="FileChooserDialogImpl" timestamp="1589822454126">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="543" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589808197879" />
-    <state width="1345" height="543" key="GridCell.Tab.0.center" timestamp="1589808197879">
+    <state x="466" y="121" width="424" height="479" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1589822454126" />
+    <state width="1345" height="543" key="GridCell.Tab.0.bottom" timestamp="1589886644452">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="543" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589808197879" />
-    <state width="1345" height="543" key="GridCell.Tab.0.left" timestamp="1589808197879">
+    <state width="1345" height="543" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589886644452" />
+    <state width="1345" height="543" key="GridCell.Tab.0.center" timestamp="1589886644452">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="543" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589808197879" />
-    <state width="1345" height="543" key="GridCell.Tab.0.right" timestamp="1589808197879">
+    <state width="1345" height="543" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589886644452" />
+    <state width="1345" height="543" key="GridCell.Tab.0.left" timestamp="1589886644451">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="543" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589808197879" />
+    <state width="1345" height="543" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589886644451" />
+    <state width="1345" height="543" key="GridCell.Tab.0.right" timestamp="1589886644452">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="543" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589886644452" />
     <state width="1345" height="375" key="GridCell.Tab.1.bottom" timestamp="1589620252201">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -114,9 +126,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="100" y="99" width="1166" height="528" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1589388540415" />
-    <state x="366" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1589719308928">
+    <state x="366" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1589882881515">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="366" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1589719308928" />
+    <state x="366" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1589882881515" />
   </component>
 </project>
