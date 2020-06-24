@@ -4,6 +4,8 @@
     <list default="true" id="a05b587a-da2a-4c15-aa25-3e9972c336b3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Connection4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Connection4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/document.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/document.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/تکنیک های استفاده شده" beforeDir="false" afterPath="$PROJECT_DIR$/تکنیک های استفاده شده" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,11 +34,14 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.Connection4">
     <configuration name="Connection4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Connection4AI" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -58,9 +63,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="conect4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Connection4AI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/conect4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Python.Connection4" />
+        <item itemvalue="Python.conect4" />
       </list>
     </recent_temporary>
   </component>
@@ -75,60 +102,80 @@
       <option name="presentableId" value="Default" />
       <updated>1589323761086</updated>
     </task>
+    <task id="LOCAL-00001" summary="nothing">
+      <created>1589908166749</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589908166749</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="nothing" />
+    <option name="LAST_COMMIT_MESSAGE" value="nothing" />
   </component>
   <component name="WindowStateProjectService">
     <state x="278" y="24" width="800" height="672" key="#Inspections" timestamp="1589549128183">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="278" y="24" width="800" height="672" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1589549128183" />
-    <state x="384" y="169" width="588" height="383" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589810028939">
+    <state x="384" y="169" width="588" height="383" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590146541964">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="384" y="169" width="588" height="383" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1589810028939" />
-    <state x="466" y="121" width="424" height="479" key="FileChooserDialogImpl" timestamp="1589822454126">
+    <state x="384" y="169" width="588" height="383" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1590146541964" />
+    <state x="322" y="0" width="712" height="723" key="CommitChangelistDialog2" timestamp="1589908166130">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="466" y="121" width="424" height="479" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1589822454126" />
-    <state width="1345" height="543" key="GridCell.Tab.0.bottom" timestamp="1589886644452">
+    <state x="322" y="0" width="712" height="723" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1589908166130" />
+    <state x="466" y="121" width="424" height="479" key="FileChooserDialogImpl" timestamp="1590327216983">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="543" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589886644452" />
-    <state width="1345" height="543" key="GridCell.Tab.0.center" timestamp="1589886644452">
+    <state x="466" y="121" width="424" height="479" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1590327216983" />
+    <state width="1345" height="199" key="GridCell.Tab.0.bottom" timestamp="1591201470538">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="543" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589886644452" />
-    <state width="1345" height="543" key="GridCell.Tab.0.left" timestamp="1589886644451">
+    <state width="1345" height="199" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591201470538" />
+    <state width="1345" height="199" key="GridCell.Tab.0.center" timestamp="1591201470537">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="543" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589886644451" />
-    <state width="1345" height="543" key="GridCell.Tab.0.right" timestamp="1589886644452">
+    <state width="1345" height="199" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1591201470537" />
+    <state width="1345" height="199" key="GridCell.Tab.0.left" timestamp="1591201470537">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="543" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589886644452" />
-    <state width="1345" height="375" key="GridCell.Tab.1.bottom" timestamp="1589620252201">
+    <state width="1345" height="199" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1591201470537" />
+    <state width="1345" height="199" key="GridCell.Tab.0.right" timestamp="1591201470537">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="375" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589620252201" />
-    <state width="1345" height="375" key="GridCell.Tab.1.center" timestamp="1589620252200">
+    <state width="1345" height="199" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1591201470537" />
+    <state width="1345" height="375" key="GridCell.Tab.1.bottom" timestamp="1589933001421">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="375" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1589620252200" />
-    <state width="1345" height="375" key="GridCell.Tab.1.left" timestamp="1589620252200">
+    <state width="1345" height="375" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589933001421" />
+    <state width="1345" height="375" key="GridCell.Tab.1.center" timestamp="1589933001419">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="375" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1589620252200" />
-    <state width="1345" height="375" key="GridCell.Tab.1.right" timestamp="1589620252201">
+    <state width="1345" height="375" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1589933001419" />
+    <state width="1345" height="375" key="GridCell.Tab.1.left" timestamp="1589933001419">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="375" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1589620252201" />
-    <state x="100" y="99" width="1166" height="528" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1589388540415">
+    <state width="1345" height="375" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1589933001419" />
+    <state width="1345" height="375" key="GridCell.Tab.1.right" timestamp="1589933001421">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="100" y="99" width="1166" height="528" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1589388540415" />
-    <state x="366" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1589882881515">
+    <state width="1345" height="375" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1589933001421" />
+    <state x="278" y="99" width="800" height="523" key="Vcs.Push.Dialog.v2" timestamp="1589908197294">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="366" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1589882881515" />
+    <state x="278" y="99" width="800" height="523" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1589908197294" />
+    <state x="100" y="99" width="1166" height="528" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1589972595508">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="100" y="99" width="1166" height="528" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1589972595508" />
+    <state x="366" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1590326853937">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="366" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1590326853937" />
   </component>
 </project>
