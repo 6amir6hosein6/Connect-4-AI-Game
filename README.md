@@ -9,8 +9,8 @@ In the firts step we choose between two game mode :  (AI vs Human) or (AI vs AI)
 
 In the second step, we choose between two other options to choose which one to start first :
 
-![AI or Human](https://github.com/6amir6hosein6/Connect-4-AI-Game/blob/master/image/2.png)
-:
+![AI or Human](https://github.com/6amir6hosein6/Connect-4-AI-Game/blob/master/image/2.png):
+
 In the third step, we determine how hard the artificial intelligence should be :
 
 ![Easy or Hard](https://github.com/6amir6hosein6/Connect-4-AI-Game/blob/master/image/3.png)
