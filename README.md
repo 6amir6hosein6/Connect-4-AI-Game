@@ -26,11 +26,10 @@ After several steps, as you can see, artificial intelligence will win the game
 
 ![Choose column](https://github.com/6amir6hosein6/Connect-4-AI-Game/blob/master/image/6.png)
 
-##Documentation:
+## Documentation:
 
-###playGame(bo):
-
-####Inputs:
+### playGame(bo):
+#### Inputs:
 
 bo : The board of game
 
@@ -46,16 +45,17 @@ II-Firstone : AI
 
 2 - AI vs human
 
-###human_choose(bo, col):
-####Inputs:
+### human_choose(bo, col):
+#### Inputs:
 
 bo : The board of game
 
 col : choosen culomn by user
 
 This function get the choosen column by user and put in the board and check if the user is winner or not and then give the turn to the other player
-check_piece():
-Inputs:
+
+### check_piece():
+#### Inputs:
 
 bo : The board of game
 
@@ -67,8 +67,8 @@ length : the size of pice we want (defult=4)
 
 checks given the piece of board and return the piece that there is some winner inside it ;-)
 
-###find_winner():
-####Inputs:
+### find_winner():
+#### Inputs:
 
 bo : The board of game
 
@@ -80,8 +80,8 @@ Output:
 
 the winner existing , winner marker(+1 or -1)
 
-###printBoard(bo):
-####Inputs:
+### printBoard(bo):
+#### Inputs:
 
 bo : The board of game
 
@@ -97,15 +97,15 @@ rival : Who is the rival of AI in this game (AI or human)
 
 This function will di the move of ai by using MiniMAx() function and changes the board and like human_choose() check if the user is winner or not and then give the turn to the other player
 
-###available(bo):
-####Inputs:
+### available(bo):
+#### Inputs:
 
 bo : The board of game
 
 This function will check if table is full or not
 
-###all_possible_move(bo):
-####Inputs:
+### all_possible_move(bo):
+#### Inputs:
 
 bo : The board of game
 
@@ -114,9 +114,9 @@ Output:
 
 possible : array of all possible moves
 
-###MIN(bo, max_depth, current_depth, alpha , beta)
-###MAX(bo, max_depth, current_depth, alpha , beta)
-#####Inputs:
+### MIN(bo, max_depth, current_depth, alpha , beta)
+### MAX(bo, max_depth, current_depth, alpha , beta)
+##### Inputs:
 
 bo : The board of game
 
@@ -128,9 +128,9 @@ alpha , beta : in order to Implement the alpha beta method
 
 This function is playing with eachother at the end they will found the best way
 
-###number_of_n_beside(bo, n, who, m):
+### number_of_n_beside(bo, n, who, m):
 
-####Inputs:
+#### Inputs:
 
 bo : The board of game
 
